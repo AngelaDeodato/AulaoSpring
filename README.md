@@ -1,2 +1,2 @@
 # AulaoSpring
-Aulão de Spring boot com os alunos do GENBLACK
+Aulão de Spring boot com os alunxs do GENBLACK
